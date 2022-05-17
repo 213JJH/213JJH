@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🧑🏻‍💻 Experiences : 
+|Date|Title|Company|Description|
+|---|---|---|---|
+|2021-08-01~2021-10-31|TWIGFARM|Internship as NLP Research Engineer|
+### 🌱
+
+### 💬
