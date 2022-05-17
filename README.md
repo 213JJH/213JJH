@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 ### 🧑🏻‍💻 Experiences : 
 |Date|Title|Company|Description|
 |---|---|---|---|
-|2021-08-01 ~ 2021-10-31|SOL Project with NIS|TWIGFARM|Internship as NLP Research Engineer|
-|2021-05-25 ~ 2021-11-18|2021 Tour API Service Competition|Korean Tourism Organization(KTO)|Encouragement Prize|
-|2015-03-13 ~ 2016-05-27|SKKU First Penguin Project|SungKyunKwan Univ.|Grand Prize(SKKU), Exellenct Prize(ACE 10th Forum)|
-### 🌱
+|2021-08 ~ 2021-10|SOL Project with NIS|TWIGFARM|Internship as NLP Research Engineer|
+|2021-05 ~ 2021-11|2021 Tour API Service Competition|Korean Tourism Organization(KTO)|Encouragement Prize|
+|2015-03 ~ 2016-05|SKKU First Penguin Project|SungKyunKwan Univ.|Grand Prize(SKKU), Exellenct Prize(ACE 10th Forum)|
+
+### 🌱Education :
+|Date|Title|Company|Description|
+|---|---|---|---|
+|2021-05 ~ 2021-11|K-Digital Training|Multicampus, IITP|Natural Language Processing based on Business Big Data|
+|2018-06 ~ 2018-12|HRD NCS Program|Multicampus, Ministry of Employment and Labor|Application software engineering|
 
 ### 💬
