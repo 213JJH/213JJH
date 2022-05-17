@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 |2018-06 ~ 2018-12|HRD NCS Program|Multicampus, Ministry of Employment and Labor|Application software engineering|
 
 
-### 💬
+### 📫  Contact Me : 
+* Blog   : https://213jjh.tistory.com
+* GitHub : https://github.com/213jjh
