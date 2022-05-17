@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 |2021-05 ~ 2021-11|2021 Tour API Service Competition|Korean Tourism Organization(KTO)|Encouragement Prize|
 |2015-03 ~ 2016-05|SKKU First Penguin Project|SungKyunKwan Univ.|Grand Prize(SKKU), Exellenct Prize(ACE 10th Forum)|
 
-### 🌱. Education :
+### 🌱  Education :
 |Date|Title|Company|Description|
 |---|---|---|---|
 |2021-05 ~ 2021-11|K-Digital Training|Multicampus, Institue of Information & Communications Technology Planning & Evaluation(IITP)|Natural Language Processing based on Business Big Data|
