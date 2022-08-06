@@ -1,5 +1,5 @@
 ### 👋  Hi there : 
-* A data engineer who is not afraid of novelty.
+* A growing data engineer who is not afraid of novelty.
 
 ### 🧑🏻‍💻  Experiences : 
 |Date|Title|Company|Description|Languages|
