@@ -1,13 +1,6 @@
-### Hi there 👋
-
-<!--
-**213JJH/213JJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on LGUPLUS
-- 🌱 I’m currently learning PYTHON, SQL, GA, Etc.
--->
+### 👋  Hi there
+* A data engineer who can understand and leverage the value of morphemes.
+* A challenging data engineer who is not afraid of novelty.
 
 ### 🧑🏻‍💻  Experiences : 
 |Date|Title|Company|Description|Languages|
