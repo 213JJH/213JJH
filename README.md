@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 ### 🧑🏻‍💻  Experiences : 
 |Date|Title|Company|Description|Languages|
 |---|---|---|---|---|
-|2022-07 ~ 2022-07|Data Engineering|LG UPLUS|Internship as Data Engineer|Python, SQL|
-|2021-08 ~ 2021-10|SOL Project with NIS|TWIGFARM|Internship as NLP Research Engineer|Python, JSON|
+|2022-07 ~ 2022-07|Data Engineering|LG Uplus|Internship as Data Engineer|Python, SQL|
+|2021-08 ~ 2021-10|SOL Project with NIS|Twigfarm|Internship as NLP Research Engineer|Python, JSON|
 |2021-05 ~ 2021-11|2021 Tour API Service Competition|Korean Tourism Organization(KTO)|Encouragement Prize|Flutter, Python|
 |2015-03 ~ 2016-05|SKKU First Penguin Project|SungKyunKwan Univ.|Grand Prize(SKKU), Exellenct Prize(ACE 10th Forum)|Java, JavaScript|
 
