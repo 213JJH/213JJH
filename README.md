@@ -1,6 +1,5 @@
 ### 👋  Hi there : 
-* A data engineer who can understand and leverage the value of morphemes.
-* Also, a data engineer who is not afraid of novelty.
+* A data engineer who is not afraid of novelty.
 
 ### 🧑🏻‍💻  Experiences : 
 |Date|Title|Company|Description|Languages|
