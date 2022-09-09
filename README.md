@@ -14,7 +14,7 @@
 |Date|Title|Company|Description|
 |---|---|---|---|
 |2021-05 ~ 2021-11|K-Digital Training|Multicampus, Institue of Information & Communications Technology Planning & Evaluation(IITP)|Natural Language Processing based on Business Big Data|
-|2018-06 ~ 2018-12|HRD NCS Program|Multicampus, Ministry of Employment and Labor|Application software engineering|
+|2010-03 ~ 2019-02|Bachelor's Degrees|SKKU(Sungkyunkwan Univ.)|Double major in Economics and Computer Science|
 
 
 ### 📫  Contact Me : 
