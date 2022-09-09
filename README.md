@@ -19,4 +19,4 @@
 
 ### 📫  Contact Me : 
 * Blog   : https://213jjh.tistory.com
-* GitHub : https://github.com/213jjh
+* LinkedIn : https://www.linkedin.com/in/jh-ji-a15238235
