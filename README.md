@@ -2,6 +2,8 @@
 ----
 * A growing data engineer who is not afraid of novelty.
 
+====
+
 ### 🧑🏻‍💻  Experiences
 ----
 |Date|Title|Company|Description|Languages|
@@ -12,12 +14,14 @@
 |2015-03 ~ 2016-05|SKKU First Penguin Project|SungKyunKwan Univ.|Grand Prize(SKKU), Exellenct Prize(ACE 10th Forum)|Java, JavaScript|
 
 
+
 ### 🌱  Education
 ----
 |Date|Title|Company|Description|
 |---|---|---|---|
 |2021-05 ~ 2021-11|K-Digital Training|Multicampus, Institue of Information & Communications Technology Planning & Evaluation(IITP)|Natural Language Processing based on Business Big Data|
 |2010-03 ~ 2019-02|Bachelor's Degrees|SKKU(Sungkyunkwan Univ.)|Double major in Economics and Computer Science|
+
 
 
 ### 📫  Contact Me
